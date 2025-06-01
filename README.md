@@ -74,9 +74,9 @@ This project focuses on **early and accurate detection of lung cancer** using **
 ## 🚀 Gradio Deployment (Interactive Interface)
 
 We provide a Gradio-based web interface for real-time predictions.
-
+---
 Images :
-![image alt](https://github.com/Ranjana124/Lung-Cancer-Detection-And-Prediction-Using-CTscan/blob/main/images/Screenshot%202025-04-15%20120816.pngv)
+![image alt](https://github.com/Ranjana124/Lung-Cancer-Detection-And-Prediction-Using-CTscan/blob/main/images/Screenshot%202025-04-15%20120816.png?raw=true)
 
 ### 📦 Installation
 
